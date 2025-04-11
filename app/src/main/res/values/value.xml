@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="xhs_theme_dimension_40">40dp</dimen>
+    <dimen name="xhs_theme_dimension_20">20dp</dimen>
+    <dimen name="xhs_theme_dimension_1">1dp</dimen>
+    <color name="xhs_theme_digit_color">#FF0000</color>
+</resources>

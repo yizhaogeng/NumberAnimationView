@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="number_text_size">40sp</dimen>
+    <dimen name="prefix_text_size">40sp</dimen>
+    <dimen name="digit_vertical_spacing">20dp</dimen>
+    <dimen name="digit_horizontal_spacing">2dp</dimen>
+    <dimen name="prefix_spacing">4dp</dimen>
+</resources> 

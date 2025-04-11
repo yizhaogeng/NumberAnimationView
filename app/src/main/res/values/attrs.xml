@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NumberAnimationView">
+        <attr name="textSize" format="dimension"/>
+        <attr name="digitColor" format="color"/>
+        <attr name="prefixColor" format="color"/>
+        <attr name="digitHorizontalSpacing" format="dimension"/>
+        <attr name="prefixSpacing" format="dimension"/>
+        <attr name="animationDuration" format="integer"/>
+        <attr name="digitSpacing" format="dimension"/>
+        <attr name="prefixTextSize" format="dimension"/>
+        <attr name="drawInterval" format="integer"/>
+    </declare-styleable>
+</resources> 
